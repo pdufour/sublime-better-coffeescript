@@ -1,8 +1,9 @@
 {
     "schema_version": "1.2",
+    "renamed_packages": { "sublime-better-coffeescript": "Better CoffeeScript" },
     "packages": [
         {
-            "name": "Better CoffeeScript (JSX)",
+            "name": "Better CoffeeScript",
             "description": "Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.",
             "author": "pdufour",
             "homepage": "https://github.com/pdufour/sublime-better-coffeescript",
@@ -10,7 +11,7 @@
             "platforms": {
                 "*": [
                     {
-                        "version": "0.7.1",
+                        "version": "0.7.0",
                         "url": "https://nodeload.github.com/pdufour/sublime-better-coffeescript/zip/master"
                     }
                 ]
