@@ -3,16 +3,16 @@
     "renamed_packages": { "sublime-better-coffeescript": "Better CoffeeScript" },
     "packages": [
         {
-            "name": "Better CoffeeScript",
+            "name": "Better CoffeeScript (JSX)",
             "description": "Syntax highlighting and checking, commands, shortcuts, snippets, watched compilation and more.",
             "author": "aponxi",
-            "homepage": "https://github.com/aponxi/sublime-better-coffeescript",
-            "last_modified": "2013-05-26 05:04:41",
+            "homepage": "https://github.com/pdufour/sublime-better-coffeescript",
+            "last_modified": "2014-03-4 00:00:00",
             "platforms": {
                 "*": [
                     {
                         "version": "0.7.0",
-                        "url": "https://nodeload.github.com/aponxi/sublime-better-coffeescript/zip/master"
+                        "url": "https://nodeload.github.com/pdufour/sublime-better-coffeescript/zip/master"
                     }
                 ]
             }
