@@ -146,7 +146,7 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>Embedded Source</string>
+			<string>text source</string>
 			<key>patterns</key>
 			<array>
 				<dict>
