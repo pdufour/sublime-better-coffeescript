@@ -20,7 +20,7 @@
 	<key>keyEquivalent</key>
 	<string>^~C</string>
 	<key>name</key>
-	<string>CoffeeScript</string>
+	<string>CoffeeScript (JSX)</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -146,7 +146,7 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>string.quoted.script.coffee</string>
+			<string>source.js</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -154,6 +154,10 @@
 					<string>\\(x\h{2}|[0-2][0-7]{,2}|3[0-6][0-7]|37[0-7]?|[4-7][0-7]?|.)</string>
 					<key>name</key>
 					<string>constant.character.escape.coffee</string>
+				</dict>
+				<dict>
+					<key>include</key>
+					<string>source.js</string>
 				</dict>
 			</array>
 		</dict>
