@@ -146,7 +146,7 @@
 				</dict>
 			</dict>
 			<key>name</key>
-			<string>source.js</string>
+			<string>string.quoted.script.coffee</string>
 			<key>patterns</key>
 			<array>
 				<dict>
