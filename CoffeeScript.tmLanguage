@@ -20,7 +20,7 @@
 	<key>keyEquivalent</key>
 	<string>^~C</string>
 	<key>name</key>
-	<string>CoffeeScript (JSX)</string>
+	<string>CoffeeScript</string>
 	<key>patterns</key>
 	<array>
 		<dict>
